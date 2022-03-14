@@ -1,6 +1,8 @@
 ### Developer okdohyuk likes organizing...
 
-I'm gradually building up my skills as I plant git commit.
+I'm working and learning at the same time.
+
+main job is front-end development.
 
 <div align=center>
 Links
